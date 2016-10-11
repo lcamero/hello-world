@@ -1,3 +1,3 @@
-function fuck () {
-  console.log('Fucking fuck')
+function noCursing () {
+  console.log('Sorry, mate')
 }
