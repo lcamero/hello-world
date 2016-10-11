@@ -1,3 +1,3 @@
 function noCursing () {
-  console.log('FUCK YOU MAN')
+  console.log('Coding is hard')
 }
